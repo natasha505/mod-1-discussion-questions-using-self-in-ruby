@@ -61,6 +61,6 @@ Take 30 minutes and answer the following questions together with your group. Tak
 
     mongoose = Bicycle.new(4, 10, "BMX")
 
-  For what reasons will the following method calls fail :```mongoose.tire_size = 5```, ```mongoose.gears```, ```Bicycle.bikes```, ```Bicycle.style```? Restructure the class to fix the issues.
+  For what reasons will the following method calls fail :```mongoose.tire_size = 5```, ```mongoose.gears```, ```Bicycle.bikes```, ```Bicycle.styles```? Restructure the class to fix the issues.
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/week-1-day-5-discussion'>Week 1 Day 5 Discussion</a> on Learn.co and start learning to code for free.</p>
