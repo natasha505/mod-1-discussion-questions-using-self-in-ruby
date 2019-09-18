@@ -4,6 +4,10 @@
 
 Take 30 minutes and answer the following questions together with your group. Take turns playing around with the code provided in Pry or IRB.
 
+<p align="center">
+  <img src="https://curriculum-content.s3.amazonaws.com/module-1/discussion-questions/using-self-in-ruby/Image_110_%20FunnyRobots.png" alt="funny robots" width="300"/>
+</p>
+
 1 .   
 
       class FunnyBots  
