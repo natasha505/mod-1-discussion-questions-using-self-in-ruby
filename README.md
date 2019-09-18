@@ -39,9 +39,12 @@ Take 30 minutes and answer the following questions together with your group. Tak
   C. What kind of **method** is this & what is **self**? ```  def self.bots  
       @@bots end ```  
   D. Will this work ```archer.bots```? If not, why? 
-  
 
 2 .
+
+<p align="center">
+  <img src="https://curriculum-content.s3.amazonaws.com/module-1/discussion-questions/using-self-in-ruby/Image_111A_Photo%20by%20C%20Drying%20on%20Unsplash.png" alt="Photo by C Drying on Unsplash." width="300"/>
+</p>
 
     class Bicycle
 
